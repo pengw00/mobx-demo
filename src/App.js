@@ -45,7 +45,7 @@ const appStore = new Store()
 function App() {
   return (
     <div>
-      <h1>Mobx Table</h1>
+      <h1>Leetcode Algorithm</h1>
         <Controls store={appStore}/>
         <Table store={appStore}/>
     </div>

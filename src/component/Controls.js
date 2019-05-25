@@ -1,7 +1,8 @@
 import React, { Component } from "react";
+import Popup from "reactjs-popup";
 
 class Controls extends Component {
-   addEmployee = () => {
+     addEmployee = () => {
      const name = prompt("The name:")
      const salary = parseInt(prompt("The salary:"), 10)
     
@@ -21,6 +22,9 @@ class Controls extends Component {
         <div className="controls">
           <button onClick={this.clearList}>clear table</button>
           <button onClick={this.addEmployee}>add record</button>
+          <Popup trigger={<button> Trigger</button>} position="bottum center">
+          <div>Popup content here !!</div>
+          </Popup>
         </div>
       );
     }
