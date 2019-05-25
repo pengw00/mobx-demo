@@ -10,8 +10,8 @@ configure({enforceActions: true})
 
 class Store {
   employeesList = [
-    { name: "John Doe", salary: 150 },
-    { name: "Richard Roe", salary: 225 },
+    { name: "Two Sum", time: 150 },
+    { name: "Dynamic Programming", time: 225 },
   ]
   clearList(){
     this.employeesList = []

@@ -10,8 +10,8 @@ class Table extends Component {
         <table>
           <thead>
             <tr>
-              <td>Name:</td>
-              <td>Daily salary:</td>
+              <td>Type:</td>
+              <td>ID:</td>
             </tr>
           </thead>
           <tbody>
@@ -24,13 +24,13 @@ class Table extends Component {
           </tbody>
           <tfoot>
               <tr>
-              <td>TOTAL:</td>
+              <td>TOTAL Time:</td>
               <td>{store.totalSum}</td>
               </tr>
           </tfoot>
         </table>
         <div className="fade">
-            You have <u>{store.highEarnersCount} team members </u> that earn more that 500$/day
+            You have <u>{store.highEarnersCount} problems </u> that cost more that 800 ms.
         </div>
         </div>
       );

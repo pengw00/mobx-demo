@@ -3,8 +3,8 @@ import Popup from "reactjs-popup";
 
 class Controls extends Component {
      addEmployee = () => {
-     const name = prompt("The name:")
-     const salary = parseInt(prompt("The salary:"), 10)
+     const name = prompt("The type:")
+     const salary = parseInt(prompt("The number:"), 10)
     
     // seems to be working ok we are breaking a very important rule of Mobx: state data should be modified only through actions
     //  this.props.store.employeesList.push({ name, salary });
