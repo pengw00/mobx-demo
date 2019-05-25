@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mobx-demo/static/css/main.ba672180.chunk.css",
-    "main.js": "/mobx-demo/static/js/main.9e65d5a8.chunk.js",
-    "main.js.map": "/mobx-demo/static/js/main.9e65d5a8.chunk.js.map",
+    "main.js": "/mobx-demo/static/js/main.ecfd29f6.chunk.js",
+    "main.js.map": "/mobx-demo/static/js/main.ecfd29f6.chunk.js.map",
     "runtime~main.js": "/mobx-demo/static/js/runtime~main.5ce0f68d.js",
     "runtime~main.js.map": "/mobx-demo/static/js/runtime~main.5ce0f68d.js.map",
     "static/js/2.7a1708e6.chunk.js": "/mobx-demo/static/js/2.7a1708e6.chunk.js",
     "static/js/2.7a1708e6.chunk.js.map": "/mobx-demo/static/js/2.7a1708e6.chunk.js.map",
     "index.html": "/mobx-demo/index.html",
-    "precache-manifest.e10a10208967752053e7f92fcbc23ab2.js": "/mobx-demo/precache-manifest.e10a10208967752053e7f92fcbc23ab2.js",
+    "precache-manifest.a954602c9a1fc81d0540a8d90a750eb4.js": "/mobx-demo/precache-manifest.a954602c9a1fc81d0540a8d90a750eb4.js",
     "service-worker.js": "/mobx-demo/service-worker.js",
     "static/css/main.ba672180.chunk.css.map": "/mobx-demo/static/css/main.ba672180.chunk.css.map"
   }
